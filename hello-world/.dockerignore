@@ -1,0 +1,12 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Typescript Output
+dist/
+
+# Docker build output
+/*.tar
+
+# ESLint config file
+!.eslintrc.js

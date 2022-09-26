@@ -1,0 +1,32 @@
+node_modules/
+typings/
+dist/
+k8volume/
+*user-config*.json
+*.log
+*.pem
+*.pfx
+projectsantorini-keyvault-int-pwd.txt
+*.ppk
+*.crt
+**/.browse*
+.npmrc
+service-search*/reports/**/*
+.idea
+*.clusterkey
+build.txt
+*npm-debug*
+/service-policy/Santorini.PolicyService/.tools
+environmentSecrets
+.DS_Store
+/etc/
+.vs/
+ux-automation/credentials.json
+# ignore emacs autosaves
+*~
+# ignore vim auto saves
+*.sw?
+*.user
+.eslintcache
+coverage/
+**/jest-test-results.trx
