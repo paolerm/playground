@@ -17,7 +17,7 @@ spec:
       terminationGracePeriodSeconds: 1
       containers:
       - name: hello-pod
-        image: paerminiplayground.azurecr.io/hello-world:1.0
+        image: paerminiplayground.azurecr.io/hello-world:1.1
         imagePullPolicy: Always
         ports:
         - containerPort: 3000
